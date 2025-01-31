@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[UNCC-AET]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>UNCC-AET</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 30 Jan 2025 17:04:52 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 30 Jan 2025 17:04:49 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[2.9.0 hemacytometer count calculations]]></title><description><![CDATA[ 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[UNCC-AET]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://autumnet-neuro.github.io/funklab/</link><image><url>https://autumnet-neuro.github.io/funklab/lib/media/favicon.png</url><title>UNCC-AET</title><link>https://autumnet-neuro.github.io/funklab/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 31 Jan 2025 03:35:44 GMT</lastBuildDate><atom:link href="https://autumnet-neuro.github.io/funklab/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 31 Jan 2025 03:35:43 GMT</pubDate><copyright><![CDATA[AET]]></copyright><ttl>60</ttl><dc:creator>AET</dc:creator><item><title><![CDATA[2.9.0 hemacytometer count calculations]]></title><description><![CDATA[ 
  <br>Enter values below and get V2 instantly:<br>
     cell count A: <br>
     cell count B: <br>
@@ -13,10 +13,10 @@
 <br>C1 = Average of two entered cell counts.
 <br>V1 = Initial volume.
 <br>C2 = Target final concentration
-]]></description><link>meta\templates\2.9.0-hemacytometer-count-calculations.html</link><guid isPermaLink="false">meta/templates/2.9.0 hemacytometer count calculations.md</guid><pubDate>Thu, 30 Jan 2025 16:18:00 GMT</pubDate></item><item><title><![CDATA[2.9.1 cell culture master log]]></title><description><![CDATA[ 
- <br>📍 or is this .02? check desktop download date<br>]]></description><link>meta\templates\2.9.1-cell-culture-master-log.html</link><guid isPermaLink="false">meta/templates/2.9.1 cell culture master log.md</guid><pubDate>Thu, 30 Jan 2025 02:57:28 GMT</pubDate></item><item><title><![CDATA[D1: plating cells]]></title><description><![CDATA[ 
- <br><a data-href="2.2.0 BHK plaque assay protocol v1" href="2.2.0-bhk-plaque-assay-protocol-v1.html" class="internal-link" target="_self" rel="noopener nofollow">2.2.0 BHK plaque assay protocol v1</a> // timeline: 5 days (plating to staining)<br><br><br><br>
-<br><a data-tooltip-position="top" aria-label="1.3.2 culture media recipes" data-href="1.3.2 culture media recipes" href="1.3.2-culture-media-recipes.html" class="internal-link" target="_self" rel="noopener nofollow">BHK media</a>
+]]></description><link>https://autumnet-neuro.github.io/funklab/meta/templates/2.9.0-hemacytometer-count-calculations.html</link><guid isPermaLink="false">meta/templates/2.9.0 hemacytometer count calculations.md</guid><dc:creator><![CDATA[AET]]></dc:creator><pubDate>Thu, 30 Jan 2025 16:18:00 GMT</pubDate></item><item><title><![CDATA[2.9.1 cell culture master log]]></title><description><![CDATA[ 
+ <br>📍 or is this .02? check desktop download date<br>]]></description><link>https://autumnet-neuro.github.io/funklab/meta/templates/2.9.1-cell-culture-master-log.html</link><guid isPermaLink="false">meta/templates/2.9.1 cell culture master log.md</guid><dc:creator><![CDATA[AET]]></dc:creator><pubDate>Thu, 30 Jan 2025 02:57:28 GMT</pubDate></item><item><title><![CDATA[D1: plating cells]]></title><description><![CDATA[ 
+ <br><a data-href="2.2.0 BHK plaque assay protocol v1" href="https://autumnet-neuro.github.io/funklab/2.2.0-bhk-plaque-assay-protocol-v1.html" class="internal-link" target="_self" rel="noopener nofollow">2.2.0 BHK plaque assay protocol v1</a> // timeline: 5 days (plating to staining)<br><br><br><br>
+<br><a data-tooltip-position="top" aria-label="1.3.2 culture media recipes" data-href="1.3.2 culture media recipes" href="https://autumnet-neuro.github.io/funklab/1.3.2-culture-media-recipes.html" class="internal-link" target="_self" rel="noopener nofollow">BHK media</a>
 <br>5mL 5% trypsin
 <br>10mL PBS
 <br>10µL trypan blue
@@ -29,15 +29,15 @@
 <br>BHK cell culture (in T75 flask*) ~90-100% confluency
 <br><br><br>
 <br>Discard old media &amp; wash cells with 10mL PBS in culture vessel
-<br>Discard PBS &amp; typsinize cells with
+<br>Discard PBS &amp; trypsinize cells with
 
-<br>MIX WELL with 5 mL typsin
+<br>MIX WELL with 5 mL trypsin
 <br>(Optional) incubate for ~5m &amp; confirm cleavage under microscope
 
 
 <br>Count detached, freshly re-suspended cells in hemacytometer
 
-<br><a data-tooltip-position="top" aria-label="C1V1=C2V2 calculator block" data-href="#C1V1=C2V2 calculator block" href="about:blank#C1V1=C2V2_calculator_block" class="internal-link" target="_self" rel="noopener nofollow">**Inserted code template - Enter values below and get V2 instantly:**</a>
+<br><a data-tooltip-position="top" aria-label="C1V1=C2V2 calculator block" data-href="#C1V1=C2V2 calculator block" href="https://autumnet-neuro.github.io/funklab/about:blank#C1V1=C2V2_calculator_block" class="internal-link" target="_self" rel="noopener nofollow">**Inserted code template - Enter values below and get V2 instantly:**</a>
 
 
 <br>Prepare adequate solution for n plates adjusted to target concentration
@@ -63,7 +63,7 @@
     V2 (mL of total possible target diltion): --
      n (max # of plates): --
 <br><br><br><br>
-<br><a data-tooltip-position="top" aria-label="1.3.2 culture media recipes" data-href="1.3.2 culture media recipes" href="1.3.2-culture-media-recipes.html" class="internal-link" target="_self" rel="noopener nofollow">BHK media</a>
+<br><a data-tooltip-position="top" aria-label="1.3.2 culture media recipes" data-href="1.3.2 culture media recipes" href="https://autumnet-neuro.github.io/funklab/1.3.2-culture-media-recipes.html" class="internal-link" target="_self" rel="noopener nofollow">BHK media</a>
 <br>2% LMP agarose
 <br>2X MEM
 <br><br>
@@ -112,20 +112,21 @@
 
 
 <br>Swiftly but gently pipette 3 mL of mix per well
-]]></description><link>meta\templates\2.9.2-bhk-plaque-assay-protocol-template.html</link><guid isPermaLink="false">meta/templates/2.9.2 BHK plaque assay - protocol template.md</guid><pubDate>Thu, 30 Jan 2025 17:03:22 GMT</pubDate></item><item><title><![CDATA[inbox]]></title><description><![CDATA[ 
+]]></description><link>https://autumnet-neuro.github.io/funklab/meta/templates/2.9.2-bhk-plaque-assay-protocol-template.html</link><guid isPermaLink="false">meta/templates/2.9.2 BHK plaque assay - protocol template.md</guid><dc:creator><![CDATA[AET]]></dc:creator><pubDate>Thu, 30 Jan 2025 17:36:25 GMT</pubDate></item><item><title><![CDATA[inbox]]></title><description><![CDATA[ 
  <br><br>📍insert dataview block to aggregate to-dos<br>
 <br>lost access to Woodward floor1 stairwell door (as of 1.29)
 
 <br>tell Kristen + email David Gray (?)
 
 
+<br>double-check mouse log updates
 <br>find/replace bleach for culture room
 <br><br>
 <br>General Lab &amp; Administrative Information
 
 <br>Lab Overview (focus, key projects, etc)
 
-<br><a data-href="1.1.1 lab overview" href="1.1.1-lab-overview.html" class="internal-link" target="_self" rel="noopener nofollow">1.1.1 lab overview</a>
+<br><a data-href="1.1.1 lab overview" href="https://autumnet-neuro.github.io/funklab/1.1.1-lab-overview.html" class="internal-link" target="_self" rel="noopener nofollow">1.1.1 lab overview</a>
 
 
 <br>Lab SOPs + Safety Protocols
@@ -135,39 +136,39 @@
 
 <br>Chemical Inventory
 
-<br><a data-href="1.3.0 chemical abbreviations" href="1.3.0-chemical-abbreviations.html" class="internal-link" target="_self" rel="noopener nofollow">1.3.0 chemical abbreviations</a>
-<br><a data-href="1.3.1 Q424 EHS inventory update" href="1.3.1-q424-ehs-inventory-update.html" class="internal-link" target="_self" rel="noopener nofollow">1.3.1 Q424 EHS inventory update</a>
-<br><a data-href="1.3.2" href="1.3.2" class="internal-link" target="_self" rel="noopener nofollow">1.3.2</a>
+<br><a data-href="1.3.0 chemical abbreviations" href="https://autumnet-neuro.github.io/funklab/1.3.0-chemical-abbreviations.html" class="internal-link" target="_self" rel="noopener nofollow">1.3.0 chemical abbreviations</a>
+<br><a data-href="1.3.1 Q424 EHS inventory update" href="https://autumnet-neuro.github.io/funklab/1.3.1-q424-ehs-inventory-update.html" class="internal-link" target="_self" rel="noopener nofollow">1.3.1 Q424 EHS inventory update</a>
+<br><a data-href="1.3.2" href="https://autumnet-neuro.github.io/funklab/1.3.2" class="internal-link" target="_self" rel="noopener nofollow">1.3.2</a>
 
 
 <br>Equipment + Maintenance Logs
 
-<br><a data-href="1.4.1 lab desktop" href="1.4.1-lab-desktop.html" class="internal-link" target="_self" rel="noopener nofollow">1.4.1 lab desktop</a>
-<br><a data-href="1.4.2 CO2 incubators" href="1.4.2-co2-incubators.html" class="internal-link" target="_self" rel="noopener nofollow">1.4.2 CO2 incubators</a>
+<br><a data-href="1.4.1 lab desktop" href="https://autumnet-neuro.github.io/funklab/1.4.1-lab-desktop.html" class="internal-link" target="_self" rel="noopener nofollow">1.4.1 lab desktop</a>
+<br><a data-href="1.4.2 CO2 incubators" href="https://autumnet-neuro.github.io/funklab/1.4.2-co2-incubators.html" class="internal-link" target="_self" rel="noopener nofollow">1.4.2 CO2 incubators</a>
 
 
 <br>Data Management + Backup Policies
 
-<br><a data-href="1.5.1 ELN set-up" href="1.5.1-eln-set-up.html" class="internal-link" target="_self" rel="noopener nofollow">1.5.1 ELN set-up</a>
-<br><a data-href="1.5.0 ELN organizational practices" href="1.5.0-eln-organizational-practices.html" class="internal-link" target="_self" rel="noopener nofollow">1.5.0 ELN organizational practices</a>
-<br><a data-href="1.5.3" href="1.5.3" class="internal-link" target="_self" rel="noopener nofollow">1.5.3</a>
+<br><a data-href="1.5.1 ELN set-up" href="https://autumnet-neuro.github.io/funklab/1.5.1-eln-set-up.html" class="internal-link" target="_self" rel="noopener nofollow">1.5.1 ELN set-up</a>
+<br><a data-href="1.5.0 ELN organizational practices" href="https://autumnet-neuro.github.io/funklab/1.5.0-eln-organizational-practices.html" class="internal-link" target="_self" rel="noopener nofollow">1.5.0 ELN organizational practices</a>
+<br><a data-href="1.5.3" href="https://autumnet-neuro.github.io/funklab/1.5.3" class="internal-link" target="_self" rel="noopener nofollow">1.5.3</a>
 
 
 
 
-<br><a data-tooltip-position="top" aria-label="2.0.0 lab techniques moc" data-href="2.0.0 lab techniques moc" href="2.0.0-lab-techniques-moc.html" class="internal-link" target="_self" rel="noopener nofollow">Experimental Techniques &amp; Protocols</a>
+<br><a data-tooltip-position="top" aria-label="2.0.0 lab techniques moc" data-href="2.0.0 lab techniques moc" href="https://autumnet-neuro.github.io/funklab/2.0.0-lab-techniques-moc.html" class="internal-link" target="_self" rel="noopener nofollow">Experimental Techniques &amp; Protocols</a>
 
 <br>Cell Culture + Plating
 
-<br><a data-tooltip-position="top" aria-label="2.1.1 general cell culture" data-href="2.1.1 general cell culture" href="2.1.1-general-cell-culture.html" class="internal-link" target="_self" rel="noopener nofollow">Passaging + maintenance</a>
-<br><a data-tooltip-position="top" aria-label="2.1.2 primary neuron culture" data-href="2.1.2 primary neuron culture" href="2.1.2-primary-neuron-culture.html" class="internal-link" target="_self" rel="noopener nofollow">Neuron plating</a>
-<br>Glial cultures 
+<br><a data-tooltip-position="top" aria-label="2.1.1 general cell culture" data-href="2.1.1 general cell culture" href="https://autumnet-neuro.github.io/funklab/2.1.1-general-cell-culture.html" class="internal-link" target="_self" rel="noopener nofollow">Passaging + maintenance</a>
+<br><a data-tooltip-position="top" aria-label="2.1.2 primary neuron culture v1" data-href="2.1.2 primary neuron culture v1" href="https://autumnet-neuro.github.io/funklab/2.1.2-primary-neuron-culture-v1.html" class="internal-link" target="_self" rel="noopener nofollow">Neuron plating</a>
+<br>Glial cultures
 
 
 <br>Virus Work
 
-<br><a data-href="2.2.0 BHK plaque assay protocol v1" href="2.2.0-bhk-plaque-assay-protocol-v1.html" class="internal-link" target="_self" rel="noopener nofollow">2.2.0 BHK plaque assay protocol v1</a>
-<br><a data-href="2.9.2 BHK plaque assay - protocol template" href="meta\templates\2.9.2-bhk-plaque-assay-protocol-template.html" class="internal-link" target="_self" rel="noopener nofollow">2.9.2 BHK plaque assay - protocol template</a>
+<br><a data-href="2.2.0 BHK plaque assay protocol v1" href="https://autumnet-neuro.github.io/funklab/2.2.0-bhk-plaque-assay-protocol-v1.html" class="internal-link" target="_self" rel="noopener nofollow">2.2.0 BHK plaque assay protocol v1</a>
+<br><a data-href="2.9.2 BHK plaque assay - protocol template" href="https://autumnet-neuro.github.io/funklab/meta/templates/2.9.2-bhk-plaque-assay-protocol-template.html" class="internal-link" target="_self" rel="noopener nofollow">2.9.2 BHK plaque assay - protocol template</a>
 <br>Plaque counting...
 
 
@@ -180,11 +181,11 @@
 
 <br>Murine Procedures + Tissue Processing
 
-<br><a data-href="2.4.1 weaning pups v1" href="2.4.1 weaning pups v1" class="internal-link" target="_self" rel="noopener nofollow">2.4.1 weaning pups v1</a>
-<br><a data-href="2.4.2 dam dissection" href="2.4.2 dam dissection" class="internal-link" target="_self" rel="noopener nofollow">2.4.2 dam dissection</a>
+<br><a data-href="2.4.1 weaning pups v1" href="https://autumnet-neuro.github.io/funklab/2.4.1 weaning pups v1" class="internal-link" target="_self" rel="noopener nofollow">2.4.1 weaning pups v1</a>
+<br><a data-href="2.4.2 dam dissection" href="https://autumnet-neuro.github.io/funklab/2.4.2 dam dissection" class="internal-link" target="_self" rel="noopener nofollow">2.4.2 dam dissection</a>
 
 
-<br><a data-href="2.4.3 embedding &amp; sectioning brains v1" href="2.4.3-embedding-&amp;-sectioning-brains-v1.html" class="internal-link" target="_self" rel="noopener nofollow">2.4.3 embedding &amp; sectioning brains v1</a>
+<br><a data-href="2.4.3 embedding &amp; sectioning brains v1" href="https://autumnet-neuro.github.io/funklab/2.4.3-embedding-&amp;-sectioning-brains-v1.html" class="internal-link" target="_self" rel="noopener nofollow">2.4.3 embedding &amp; sectioning brains v1</a>
 
 
 <br>Neuroimmune-Specific
@@ -201,7 +202,7 @@
 <br>Task Logs
 <br>Project-Specific Experiment Notes
 
-<br>2.0 : Technical Practice 
+<br>2.0 : Technical Practice
 <br>2.BDD : DNA Damage - Britanie
 <br>2.TTP : Tau Phosphorylation - Trevor
 
@@ -250,17 +251,17 @@
 <br>Reference Links &amp; Resources
 <br>FAQs &amp; Notes for Viewers
 
-<br><a data-href="8.3.1 why Obsidian vs. OneNote for ELN" href="8.3.1-why-obsidian-vs.-onenote-for-eln.html" class="internal-link" target="_self" rel="noopener nofollow">8.3.1 why Obsidian vs. OneNote for ELN</a> 
+<br><a data-href="8.3.1 why Obsidian vs. OneNote for ELN" href="https://autumnet-neuro.github.io/funklab/8.3.1-why-obsidian-vs.-onenote-for-eln.html" class="internal-link" target="_self" rel="noopener nofollow">8.3.1 why Obsidian vs. OneNote for ELN</a>
 
 
 
 
-]]></description><link>1.1.0-funk-lab-index.html</link><guid isPermaLink="false">1.1.0 Funk Lab index.md</guid><pubDate>Thu, 30 Jan 2025 03:24:28 GMT</pubDate></item><item><title><![CDATA[room details]]></title><description><![CDATA[ 
+]]></description><link>https://autumnet-neuro.github.io/funklab/1.1.0-funk-lab-index.html</link><guid isPermaLink="false">1.1.0 Funk Lab index.md</guid><dc:creator><![CDATA[AET]]></dc:creator><pubDate>Thu, 30 Jan 2025 19:43:56 GMT</pubDate></item><item><title><![CDATA[room details]]></title><description><![CDATA[ 
  <br><br>
 <br>main
 <br>tissue culture
 <br>vivarium rooms
-<br><br><br>]]></description><link>1.1.1-lab-overview.html</link><guid isPermaLink="false">1.1.1 lab overview.md</guid><pubDate>Thu, 30 Jan 2025 00:56:27 GMT</pubDate></item><item><title><![CDATA[1.3.0 chemical abbreviations]]></title><description><![CDATA[ 
+<br><br><br>]]></description><link>https://autumnet-neuro.github.io/funklab/1.1.1-lab-overview.html</link><guid isPermaLink="false">1.1.1 lab overview.md</guid><dc:creator><![CDATA[AET]]></dc:creator><pubDate>Thu, 30 Jan 2025 00:56:27 GMT</pubDate></item><item><title><![CDATA[1.3.0 chemical abbreviations]]></title><description><![CDATA[ 
  <br>&amp; SDS? add links to drive files or upload pdfs<br><br>
 <br>
 Uses
@@ -284,44 +285,44 @@ Western blotting and ELISA:&nbsp;PBS containing Tween 20 is used as a blocking a
 <br>PBS can be prepared by using commercially made PBS buffer tablets or pouches.
 <br>The pH of PBS is around 7.4.&nbsp;You can adjust the pH using hydrochloric acid or sodium hydroxide.
 <br>PBS can be stored at room temperature or in the refrigerator.
-]]></description><link>1.3.0-chemical-abbreviations.html</link><guid isPermaLink="false">1.3.0 chemical abbreviations.md</guid><pubDate>Thu, 30 Jan 2025 03:29:37 GMT</pubDate></item><item><title><![CDATA[1.3.1 Q424 EHS inventory update]]></title><description><![CDATA[ 
+]]></description><link>https://autumnet-neuro.github.io/funklab/1.3.0-chemical-abbreviations.html</link><guid isPermaLink="false">1.3.0 chemical abbreviations.md</guid><dc:creator><![CDATA[AET]]></dc:creator><pubDate>Thu, 30 Jan 2025 03:29:37 GMT</pubDate></item><item><title><![CDATA[1.3.1 Q424 EHS inventory update]]></title><description><![CDATA[ 
  <br>link to google sheet<br>
-submitted 24Dec9]]></description><link>1.3.1-q424-ehs-inventory-update.html</link><guid isPermaLink="false">1.3.1 Q424 EHS inventory update.md</guid><pubDate>Thu, 30 Jan 2025 02:35:46 GMT</pubDate></item><item><title><![CDATA[1.3.2 culture media recipes]]></title><description><![CDATA[ 
- <br>objective: mixing solutions to support growth, storage, or transport of cell cultures<br>highlight indicates frozen reagent → start prep with thaw<br><a data-href="#BHK media" href="about:blank#BHK_media" class="internal-link" target="_self" rel="noopener nofollow">BHK media</a><br>
-<a data-href="#TK1 media" href="about:blank#TK1_media" class="internal-link" target="_self" rel="noopener nofollow">TK1 media</a><br>
-<a data-href="#2x MEM" href="about:blank#2x_MEM" class="internal-link" target="_self" rel="noopener nofollow">2x MEM</a><br>
-<a data-href="#2% LMP Agarose" href="about:blank#2_LMP_Agarose" class="internal-link" target="_self" rel="noopener nofollow">2% LMP Agarose</a><br><br>
-<br>50 mL <a data-tooltip-position="top" aria-label="1.3.0 chemical abbreviations" data-href="1.3.0 chemical abbreviations" href="1.3.0-chemical-abbreviations.html" class="internal-link" target="_self" rel="noopener nofollow">FBS</a> (stored in -80 freezer)
-<br>5 mL <a data-tooltip-position="top" aria-label="1.3.0 chemical abbreviations" data-href="1.3.0 chemical abbreviations" href="1.3.0-chemical-abbreviations.html" class="internal-link" target="_self" rel="noopener nofollow">Anti/Anti</a>
-<br>5 mL <a data-tooltip-position="top" aria-label="1.3.0 chemical abbreviations" data-href="1.3.0 chemical abbreviations" href="1.3.0-chemical-abbreviations.html" class="internal-link" target="_self" rel="noopener nofollow">HEPES</a>
-<br>5 mL <a data-tooltip-position="top" aria-label="1.3.0 chemical abbreviations" data-href="1.3.0 chemical abbreviations" href="1.3.0-chemical-abbreviations.html" class="internal-link" target="_self" rel="noopener nofollow">NE-AA</a>
-<br>435 mL <a data-tooltip-position="top" aria-label="1.3.0 chemical abbreviations" data-href="1.3.0 chemical abbreviations" href="1.3.0-chemical-abbreviations.html" class="internal-link" target="_self" rel="noopener nofollow">DMEM</a> (media base)
+submitted 24Dec9]]></description><link>https://autumnet-neuro.github.io/funklab/1.3.1-q424-ehs-inventory-update.html</link><guid isPermaLink="false">1.3.1 Q424 EHS inventory update.md</guid><dc:creator><![CDATA[AET]]></dc:creator><pubDate>Thu, 30 Jan 2025 02:35:46 GMT</pubDate></item><item><title><![CDATA[1.3.2 culture media recipes]]></title><description><![CDATA[ 
+ <br>objective: mixing solutions to support growth, storage, or transport of cell cultures<br>highlight ≡ frozen reagent → start prep with thaw<br><a data-href="#BHK media" href="https://autumnet-neuro.github.io/funklab/about:blank#BHK_media" class="internal-link" target="_self" rel="noopener nofollow">BHK media</a><br>
+<a data-href="#TK1 media" href="https://autumnet-neuro.github.io/funklab/about:blank#TK1_media" class="internal-link" target="_self" rel="noopener nofollow">TK1 media</a><br>
+<a data-href="#2x MEM" href="https://autumnet-neuro.github.io/funklab/about:blank#2x_MEM" class="internal-link" target="_self" rel="noopener nofollow">2x MEM</a><br>
+<a data-href="#2% LMP Agarose" href="https://autumnet-neuro.github.io/funklab/about:blank#2_LMP_Agarose" class="internal-link" target="_self" rel="noopener nofollow">2% LMP Agarose</a><br><br>
+<br>50 mL <a data-tooltip-position="top" aria-label="1.3.0 chemical abbreviations" data-href="1.3.0 chemical abbreviations" href="https://autumnet-neuro.github.io/funklab/1.3.0-chemical-abbreviations.html" class="internal-link" target="_self" rel="noopener nofollow">FBS</a> (stored in -80 freezer)
+<br>5 mL <a data-tooltip-position="top" aria-label="1.3.0 chemical abbreviations" data-href="1.3.0 chemical abbreviations" href="https://autumnet-neuro.github.io/funklab/1.3.0-chemical-abbreviations.html" class="internal-link" target="_self" rel="noopener nofollow">Anti/Anti</a>
+<br>5 mL <a data-tooltip-position="top" aria-label="1.3.0 chemical abbreviations" data-href="1.3.0 chemical abbreviations" href="https://autumnet-neuro.github.io/funklab/1.3.0-chemical-abbreviations.html" class="internal-link" target="_self" rel="noopener nofollow">HEPES</a>
+<br>5 mL <a data-tooltip-position="top" aria-label="1.3.0 chemical abbreviations" data-href="1.3.0 chemical abbreviations" href="https://autumnet-neuro.github.io/funklab/1.3.0-chemical-abbreviations.html" class="internal-link" target="_self" rel="noopener nofollow">NE-AA</a>
+<br>435 mL <a data-tooltip-position="top" aria-label="1.3.0 chemical abbreviations" data-href="1.3.0 chemical abbreviations" href="https://autumnet-neuro.github.io/funklab/1.3.0-chemical-abbreviations.html" class="internal-link" target="_self" rel="noopener nofollow">DMEM</a> (media base)
 <br><br><br><br><br>
-<br>50 mL <a data-tooltip-position="top" aria-label="1.3.0 chemical abbreviations" data-href="1.3.0 chemical abbreviations" href="1.3.0-chemical-abbreviations.html" class="internal-link" target="_self" rel="noopener nofollow">FBS</a> (stored in -80 freezer)
-<br>5 mL <a data-tooltip-position="top" aria-label="1.3.0 chemical abbreviations" data-href="1.3.0 chemical abbreviations" href="1.3.0-chemical-abbreviations.html" class="internal-link" target="_self" rel="noopener nofollow">Glutamax</a>
-<br>5 mL <a data-tooltip-position="top" aria-label="1.3.0 chemical abbreviations" data-href="1.3.0 chemical abbreviations" href="1.3.0-chemical-abbreviations.html" class="internal-link" target="_self" rel="noopener nofollow">HEPES</a>
+<br>50 mL <a data-tooltip-position="top" aria-label="1.3.0 chemical abbreviations" data-href="1.3.0 chemical abbreviations" href="https://autumnet-neuro.github.io/funklab/1.3.0-chemical-abbreviations.html" class="internal-link" target="_self" rel="noopener nofollow">FBS</a> (stored in -80 freezer)
+<br>5 mL <a data-tooltip-position="top" aria-label="1.3.0 chemical abbreviations" data-href="1.3.0 chemical abbreviations" href="https://autumnet-neuro.github.io/funklab/1.3.0-chemical-abbreviations.html" class="internal-link" target="_self" rel="noopener nofollow">Glutamax</a>
+<br>5 mL <a data-tooltip-position="top" aria-label="1.3.0 chemical abbreviations" data-href="1.3.0 chemical abbreviations" href="https://autumnet-neuro.github.io/funklab/1.3.0-chemical-abbreviations.html" class="internal-link" target="_self" rel="noopener nofollow">HEPES</a>
 <br>5 mL sodium pyruvate
 <br>1.25g glucose
-<br>500 µL <a data-tooltip-position="top" aria-label="1.3.0 chemical abbreviations" data-href="1.3.0 chemical abbreviations" href="1.3.0-chemical-abbreviations.html" class="internal-link" target="_self" rel="noopener nofollow">NE-AA</a>
+<br>500 µL <a data-tooltip-position="top" aria-label="1.3.0 chemical abbreviations" data-href="1.3.0 chemical abbreviations" href="https://autumnet-neuro.github.io/funklab/1.3.0-chemical-abbreviations.html" class="internal-link" target="_self" rel="noopener nofollow">NE-AA</a>
 <br>1.75 µL 2-mercaptoethanol
-<br><a data-tooltip-position="top" aria-label="1.3.0 chemical abbreviations" data-href="1.3.0 chemical abbreviations" href="1.3.0-chemical-abbreviations.html" class="internal-link" target="_self" rel="noopener nofollow">RPMI</a> (media base)
+<br><a data-tooltip-position="top" aria-label="1.3.0 chemical abbreviations" data-href="1.3.0 chemical abbreviations" href="https://autumnet-neuro.github.io/funklab/1.3.0-chemical-abbreviations.html" class="internal-link" target="_self" rel="noopener nofollow">RPMI</a> (media base)
 
 <br>&lt;435mL
 
 
-<br><br><br><a data-href="1.1.0 Funk Lab index" href="1.1.0-funk-lab-index.html" class="internal-link" target="_self" rel="noopener nofollow">1.1.0 Funk Lab index</a> // <a data-href="1.3.3 aliquot stocks" href="1.3.3-aliquot-stocks.html" class="internal-link" target="_self" rel="noopener nofollow">1.3.3 aliquot stocks</a> // <a data-href="2.1.1 general cell culture" href="2.1.1-general-cell-culture.html" class="internal-link" target="_self" rel="noopener nofollow">2.1.1 general cell culture</a>]]></description><link>1.3.2-culture-media-recipes.html</link><guid isPermaLink="false">1.3.2 culture media recipes.md</guid><pubDate>Thu, 30 Jan 2025 15:37:40 GMT</pubDate></item><item><title><![CDATA[1.3.3 aliquot stocks]]></title><description><![CDATA[ 
+<br><br><br><a data-href="1.1.0 Funk Lab index" href="https://autumnet-neuro.github.io/funklab/1.1.0-funk-lab-index.html" class="internal-link" target="_self" rel="noopener nofollow">1.1.0 Funk Lab index</a> // <a data-href="1.3.3 aliquot stocks" href="https://autumnet-neuro.github.io/funklab/1.3.3-aliquot-stocks.html" class="internal-link" target="_self" rel="noopener nofollow">1.3.3 aliquot stocks</a> // <a data-href="2.1.1 general cell culture" href="https://autumnet-neuro.github.io/funklab/2.1.1-general-cell-culture.html" class="internal-link" target="_self" rel="noopener nofollow">2.1.1 general cell culture</a>]]></description><link>https://autumnet-neuro.github.io/funklab/1.3.2-culture-media-recipes.html</link><guid isPermaLink="false">1.3.2 culture media recipes.md</guid><dc:creator><![CDATA[AET]]></dc:creator><pubDate>Thu, 30 Jan 2025 17:40:22 GMT</pubDate></item><item><title><![CDATA[1.3.3 aliquot stocks]]></title><description><![CDATA[ 
  <br>pdl<br>
-b27]]></description><link>1.3.3-aliquot-stocks.html</link><guid isPermaLink="false">1.3.3 aliquot stocks.md</guid><pubDate>Wed, 29 Jan 2025 22:17:38 GMT</pubDate></item><item><title><![CDATA[UNCC inventory #24002]]></title><description><![CDATA[ 
+b27]]></description><link>https://autumnet-neuro.github.io/funklab/1.3.3-aliquot-stocks.html</link><guid isPermaLink="false">1.3.3 aliquot stocks.md</guid><dc:creator><![CDATA[AET]]></dc:creator><pubDate>Wed, 29 Jan 2025 22:17:38 GMT</pubDate></item><item><title><![CDATA[UNCC inventory #24002]]></title><description><![CDATA[ 
  <br><br><br>Full device name:	BIOL34LK243WWS.dyn.uncc.edu<br>Device ID: E309C7E2-3D14-4565-8F1E-6CB9224B4A03<br>
-Product ID: 00329-00000-00003-AA717<br><br>Installed RAM: 16.0 GB (15.8 GB usable)<br>]]></description><link>1.4.1-lab-desktop.html</link><guid isPermaLink="false">1.4.1 lab desktop.md</guid><pubDate>Thu, 30 Jan 2025 00:36:58 GMT</pubDate></item><item><title><![CDATA[1.4.2 CO2 incubators]]></title><description><![CDATA[ 
+Product ID: 00329-00000-00003-AA717<br><br>Installed RAM: 16.0 GB (15.8 GB usable)<br>]]></description><link>https://autumnet-neuro.github.io/funklab/1.4.1-lab-desktop.html</link><guid isPermaLink="false">1.4.1 lab desktop.md</guid><dc:creator><![CDATA[AET]]></dc:creator><pubDate>Thu, 30 Jan 2025 00:36:58 GMT</pubDate></item><item><title><![CDATA[1.4.2 CO2 incubators]]></title><description><![CDATA[ 
  <br><br>
 <br>received 1.2..25
 <br><br>📍 convert to table (for long-term updates)<br><br>incubatorA: 5.17%<br>
-incubatorB: 4.94%]]></description><link>1.4.2-co2-incubators.html</link><guid isPermaLink="false">1.4.2 CO2 incubators.md</guid><pubDate>Thu, 30 Jan 2025 01:14:11 GMT</pubDate></item><item><title><![CDATA[1.4.2 Woodward Hall autoclaves]]></title><description><![CDATA[ 
+incubatorB: 4.94%]]></description><link>https://autumnet-neuro.github.io/funklab/1.4.2-co2-incubators.html</link><guid isPermaLink="false">1.4.2 CO2 incubators.md</guid><dc:creator><![CDATA[AET]]></dc:creator><pubDate>Thu, 30 Jan 2025 01:14:11 GMT</pubDate></item><item><title><![CDATA[1.4.2 Woodward Hall autoclaves]]></title><description><![CDATA[ 
  <br><br>
 <br>received 1.2..25
 <br><br>📍 convert to table (for long-term updates)<br><br>incubatorA: 5.17%<br>
-incubatorB: 4.94%]]></description><link>1.4.2-woodward-hall-autoclaves.html</link><guid isPermaLink="false">1.4.2 Woodward Hall autoclaves.md</guid><pubDate>Thu, 30 Jan 2025 01:14:11 GMT</pubDate></item><item><title><![CDATA[1.5.0 ELN organizational practices]]></title><description><![CDATA[ 
+incubatorB: 4.94%]]></description><link>https://autumnet-neuro.github.io/funklab/1.4.2-woodward-hall-autoclaves.html</link><guid isPermaLink="false">1.4.2 Woodward Hall autoclaves.md</guid><dc:creator><![CDATA[AET]]></dc:creator><pubDate>Thu, 30 Jan 2025 01:14:11 GMT</pubDate></item><item><title><![CDATA[1.5.0 ELN organizational practices]]></title><description><![CDATA[ 
  <br><br>
 <br>real-time updates
 
@@ -354,7 +355,7 @@ incubatorB: 4.94%]]></description><link>1.4.2-woodward-hall-autoclaves.html</lin
 <br><br>
 <br>share notebook with lab-mates for constructive feedback
 <br>clarify my workflow &amp; ensure continuous accessibility to updated notes
-]]></description><link>1.5.0-eln-organizational-practices.html</link><guid isPermaLink="false">1.5.0 ELN organizational practices.md</guid><pubDate>Thu, 30 Jan 2025 03:24:32 GMT</pubDate></item><item><title><![CDATA[📍 finishing ELN set-up]]></title><description><![CDATA[ 
+]]></description><link>https://autumnet-neuro.github.io/funklab/1.5.0-eln-organizational-practices.html</link><guid isPermaLink="false">1.5.0 ELN organizational practices.md</guid><dc:creator><![CDATA[AET]]></dc:creator><pubDate>Thu, 30 Jan 2025 03:24:32 GMT</pubDate></item><item><title><![CDATA[📍 finishing ELN set-up]]></title><description><![CDATA[ 
  <br><br>
 <br>add 'objective' statements for each protocol
 <br>📍outline + table of contents<br>
@@ -362,11 +363,11 @@ incubatorB: 4.94%]]></description><link>1.4.2-woodward-hall-autoclaves.html</lin
 <br>enabled (webpage exporter)
 <br>📍 add links to ⚿ gdrive pages<br>
 📍 add ethos + purpose (this page)<br>
-<a data-href="8.2.1 misc lab glossary" href="8.2.1-misc-lab-glossary.html" class="internal-link" target="_self" rel="noopener nofollow">8.2.1 misc lab glossary</a> ← do i still want this?, maybe just clarify on protocol pages 📍]]></description><link>1.5.1-eln-set-up.html</link><guid isPermaLink="false">1.5.1 ELN set-up.md</guid><pubDate>Thu, 30 Jan 2025 02:41:10 GMT</pubDate></item><item><title><![CDATA[Experimental Techniques &amp; Protocols]]></title><description><![CDATA[ 
- <br><br><a data-href="2.1.1 general cell culture" href="2.1.1-general-cell-culture.html" class="internal-link" target="_self" rel="noopener nofollow">2.1.1 general cell culture</a><br>
-<a data-href="2.2.0 BHK plaque assay protocol v1" href="2.2.0-bhk-plaque-assay-protocol-v1.html" class="internal-link" target="_self" rel="noopener nofollow">2.2.0 BHK plaque assay protocol v1</a> // <a data-tooltip-position="top" aria-label="2.9.2 BHK plaque assay - protocol template" data-href="2.9.2 BHK plaque assay - protocol template" href="meta\templates\2.9.2-bhk-plaque-assay-protocol-template.html" class="internal-link" target="_self" rel="noopener nofollow">template</a><br>
-<a data-href="protocol - RT-PCR" href="protocol - RT-PCR" class="internal-link" target="_self" rel="noopener nofollow">protocol - RT-PCR</a><br>
-<a data-href="2.4.3 embedding &amp; sectioning brains v1" href="2.4.3-embedding-&amp;-sectioning-brains-v1.html" class="internal-link" target="_self" rel="noopener nofollow">2.4.3 embedding &amp; sectioning brains v1</a><br><br>bhk assay steps<br>
+<a data-href="8.2.1 misc lab glossary" href="https://autumnet-neuro.github.io/funklab/8.2.1-misc-lab-glossary.html" class="internal-link" target="_self" rel="noopener nofollow">8.2.1 misc lab glossary</a> ← do i still want this?, maybe just clarify on protocol pages 📍]]></description><link>https://autumnet-neuro.github.io/funklab/1.5.1-eln-set-up.html</link><guid isPermaLink="false">1.5.1 ELN set-up.md</guid><dc:creator><![CDATA[AET]]></dc:creator><pubDate>Thu, 30 Jan 2025 02:41:10 GMT</pubDate></item><item><title><![CDATA[Experimental Techniques &amp; Protocols]]></title><description><![CDATA[ 
+ <br><br><a data-href="2.1.1 general cell culture" href="https://autumnet-neuro.github.io/funklab/2.1.1-general-cell-culture.html" class="internal-link" target="_self" rel="noopener nofollow">2.1.1 general cell culture</a><br>
+<a data-href="2.2.0 BHK plaque assay protocol v1" href="https://autumnet-neuro.github.io/funklab/2.2.0-bhk-plaque-assay-protocol-v1.html" class="internal-link" target="_self" rel="noopener nofollow">2.2.0 BHK plaque assay protocol v1</a> // <a data-tooltip-position="top" aria-label="2.9.2 BHK plaque assay - protocol template" data-href="2.9.2 BHK plaque assay - protocol template" href="https://autumnet-neuro.github.io/funklab/meta/templates/2.9.2-bhk-plaque-assay-protocol-template.html" class="internal-link" target="_self" rel="noopener nofollow">template</a><br>
+<a data-href="protocol - RT-PCR" href="https://autumnet-neuro.github.io/funklab/protocol - RT-PCR" class="internal-link" target="_self" rel="noopener nofollow">protocol - RT-PCR</a><br>
+<a data-href="2.4.3 embedding &amp; sectioning brains v1" href="https://autumnet-neuro.github.io/funklab/2.4.3-embedding-&amp;-sectioning-brains-v1.html" class="internal-link" target="_self" rel="noopener nofollow">2.4.3 embedding &amp; sectioning brains v1</a><br><br>bhk assay steps<br>
 cell count averaging<br>
 <br>c*v calcs
 <br><br>
@@ -395,9 +396,9 @@ cell count averaging<br>
 <br>Prepare Reverse Transcription Master Mix + Reactions (1p)
 <br>Fluorescent IHC (10.31.23, 2p)
 <br>Acid Etching and PDL Coating Glass Coverslips for 1° Neuron IHC (1p)
-]]></description><link>2.0.0-lab-techniques-moc.html</link><guid isPermaLink="false">2.0.0 lab techniques moc.md</guid><pubDate>Thu, 30 Jan 2025 02:56:40 GMT</pubDate></item><item><title><![CDATA[2.1.1 general cell culture]]></title><description><![CDATA[ 
+]]></description><link>https://autumnet-neuro.github.io/funklab/2.0.0-lab-techniques-moc.html</link><guid isPermaLink="false">2.0.0 lab techniques moc.md</guid><dc:creator><![CDATA[AET]]></dc:creator><pubDate>Thu, 30 Jan 2025 02:56:40 GMT</pubDate></item><item><title><![CDATA[2.1.1 general cell culture]]></title><description><![CDATA[ 
  <br>AET 1.27.25 🔒<br>objective: grow healthy cell cultures as reliable foundation for in vitro experiments &amp; controlled study of cell behavior and interactions<br>Timeline:&nbsp;~30m<br><br><br><br><br>
-<br><a data-tooltip-position="top" aria-label="1.3.2 culture media recipes" data-href="1.3.2 culture media recipes" href="1.3.2-culture-media-recipes.html" class="internal-link" target="_self" rel="noopener nofollow">cell-specific media</a>
+<br><a data-tooltip-position="top" aria-label="1.3.2 culture media recipes" data-href="1.3.2 culture media recipes" href="https://autumnet-neuro.github.io/funklab/1.3.2-culture-media-recipes.html" class="internal-link" target="_self" rel="noopener nofollow">cell-specific media</a>
 <br>Trypan blue (for cell counts)
 <br><br>
 <br>T25 (for P0)
@@ -414,7 +415,7 @@ cell count averaging<br>
 <br><br>
 <br>1 vial of desired cell line
 <br><br>add specifics and clarify any deviations from standard protocol&nbsp;<br><br>
-<br>Locate appropriate media for cell line or <a data-tooltip-position="top" aria-label="1.3.2 culture media recipes" data-href="1.3.2 culture media recipes" href="1.3.2-culture-media-recipes.html" class="internal-link" target="_self" rel="noopener nofollow">prepare</a>
+<br>Locate appropriate media for cell line or <a data-tooltip-position="top" aria-label="1.3.2 culture media recipes" data-href="1.3.2 culture media recipes" href="https://autumnet-neuro.github.io/funklab/1.3.2-culture-media-recipes.html" class="internal-link" target="_self" rel="noopener nofollow">prepare</a>
 <br>Locate cell line via <a data-tooltip-position="top" aria-label="https://docs.google.com/spreadsheets/d/1ildT212UlafgR0teK3ey2kdkAqn9QhkqOQyOY7tEQkA/edit" rel="noopener nofollow" class="external-link" href="https://docs.google.com/spreadsheets/d/1ildT212UlafgR0teK3ey2kdkAqn9QhkqOQyOY7tEQkA/edit" target="_blank">‘Itemized List of Lab Contents’ sheet</a> in Funk Lab GDrive folder
 
 <br>4 tabs for corresponding liquid nitrogen racks
@@ -426,7 +427,7 @@ cell count averaging<br>
 
 
 <br>Promptly remove thawed vial from water and decontaminate by spraying or dipping in 70% ethanol<br>
-— proceed under strict sterile conditions within <a data-tooltip-position="top" aria-label="8.2.1 misc lab glossary" data-href="8.2.1 misc lab glossary" href="8.2.1-misc-lab-glossary.html" class="internal-link" target="_self" rel="noopener nofollow">BSC</a> —
+— proceed under strict sterile conditions within <a data-tooltip-position="top" aria-label="8.2.1 misc lab glossary" data-href="8.2.1 misc lab glossary" href="https://autumnet-neuro.github.io/funklab/8.2.1-misc-lab-glossary.html" class="internal-link" target="_self" rel="noopener nofollow">BSC</a> —
 <br>In 15mL centrifuge tube, transfer vial contents over 9.0 mL of complete culture medium
 
 <br>Spin @ 125 x g for 5min
@@ -440,6 +441,11 @@ cell count averaging<br>
 
 <br>Label flask with cell line name, passage #, initials, &amp; date of procedure
 <br>Incubate culture at 37°C in a suitable incubator (5% CO2 typically recommended for medium described)
+<br><br>
+<br>Discard old growth media &amp; 
+<br>Briefly wash with 5 mL of sterile PBS then discard into liquid waste
+<br>Add 2 mL trypsin &amp; incubate ~5min for complete detachment<br>
+P0 → P1 Prep
 <br><br>e.g. BHK or L929 cells<br><br>
 <br>﻿﻿﻿Discard old growth media
 <br>Briefly wash culture with ~10 mL PBS
@@ -461,81 +467,8 @@ cell count averaging<br>
 
 
 <br><br>general primary culture recommendation — 1:2<br>
-generally, no lower than 1:20 for culture viability<br><br><br>]]></description><link>2.1.1-general-cell-culture.html</link><guid isPermaLink="false">2.1.1 general cell culture.md</guid><pubDate>Thu, 30 Jan 2025 15:31:20 GMT</pubDate></item><item><title><![CDATA[D1:]]></title><description><![CDATA[ 
- <br>objective: cultivate in vitro models of functional neural networks to study neuron behavior, development, &amp; stimuli responses (esp. concerning neurotropic infection)<br>Timeline: ~1wk
-D1 : ~
-<br><br><br><br>
-<br><a data-tooltip-position="top" aria-label="1.3.2 culture media recipes" data-href="1.3.2 culture media recipes" href="1.3.2-culture-media-recipes.html" class="internal-link" target="_self" rel="noopener nofollow">BHK media</a>
-<br>5mL 5% trypsin
-<br>10mL PBS
-<br>10µL tripan blue
-<br><br>
-<br>0.5mL centrifuge tube
-<br>hemacytometer
-<br>counting slides
-<br>6- or 12-well plates (# determined by cell count-based calc.)
-<br><br>
-<br>BHK cell culture (in T175 flask*) ~90-100% confluency
-<br>Procedure: add specifics and clarify any deviations from standard protocol<br>
-<br>target concentration:
-<br>
-<br>
-wash cells with 10mL PBS in T175
-
-<br>
-Trypsinize (5mL) cells &amp; MIX WELL
-
-<br>
-(Optional) incubate for ~5m &amp; confirm cleavage under microscope
-
-<br>
-Count thoroughly mixed cells in hemacytometer
-
-<br>→ count A = ?<br>→ count B = ?<br>→ avg cell count:<br>
-<br>calculating total possible solution @ target concentration:
-<br>[(avg count)*4.5mL]/[target count]= ?? ML<br>n= ??/12 =<br>
-<br>
-Adjust concentration to target, creating 12n+2 mL solution, where n = total # of plates
-
-<br>
-Thoroughly mix solution
-
-<br>
-Pipette 2mL of well-mixed solution into each well of 6-well plate
-
-<br>
-For 12-well plate, 1mL per well
-
-<br>
-(optional) Let plates settle at RT ~20m → incubate @ 37ºC overnight
-
-<br>D1: infecting cells<br>Materials:<br>
-<br>
-Reagents:
-
-<br>
-2% LMP agarose
-
-<br>
-viral titer
-
-<br>
-Equipment:
-
-<br>
-Species/Strains?:
-
-<br>Procedure: add specifics and clarify any deviations from standard protocol<br>WITH CONCENTRATED VIRUS<br>
-<br>
-Thaw viral titer @ RT &amp; melt agarose in microwave ~2m
-
-<br>
-Keep agarose in 56ºC water bath or hot plate to keep thawed
-
-<br>
-Prepare 6 serial dilutions, starting with 20 µL
-
-]]></description><link>2.1.2-primary-neuron-culture.html</link><guid isPermaLink="false">2.1.2 primary neuron culture.md</guid><pubDate>Thu, 30 Jan 2025 15:35:06 GMT</pubDate></item><item><title><![CDATA[D1: plating cells]]></title><description><![CDATA[ 
+generally, no lower than 1:20 for culture viability<br><br><br>]]></description><link>https://autumnet-neuro.github.io/funklab/2.1.1-general-cell-culture.html</link><guid isPermaLink="false">2.1.1 general cell culture.md</guid><dc:creator><![CDATA[AET]]></dc:creator><pubDate>Thu, 30 Jan 2025 17:48:56 GMT</pubDate></item><item><title><![CDATA[2.1.2 primary neuron culture v1]]></title><description><![CDATA[ 
+ <br>objective: cultivate in vitro models of functional neural networks to study neuron behavior, development, &amp; stimuli responses (esp. concerning neurotropic infection)]]></description><link>https://autumnet-neuro.github.io/funklab/2.1.2-primary-neuron-culture-v1.html</link><guid isPermaLink="false">2.1.2 primary neuron culture v1.md</guid><dc:creator><![CDATA[AET]]></dc:creator><pubDate>Thu, 30 Jan 2025 17:38:43 GMT</pubDate></item><item><title><![CDATA[D1: plating cells]]></title><description><![CDATA[ 
  <br>objective: visualize viral activity &amp; quantify concentration of viral particles in a sample through plaque formation following inoculation
 
 <br>plaques ≡ areas of cell death induced by viral infection
@@ -545,7 +478,7 @@ D1 : ~60min for plating<br>
 D2: ~2hr to complete infection<br>
 D5: &gt;60m for fixing + &lt;5m for staining
 <br><br><br><br>
-<br><a data-tooltip-position="top" aria-label="1.3.2 culture media recipes" data-href="1.3.2 culture media recipes" href="1.3.2-culture-media-recipes.html" class="internal-link" target="_self" rel="noopener nofollow">BHK media</a>
+<br><a data-tooltip-position="top" aria-label="1.3.2 culture media recipes" data-href="1.3.2 culture media recipes" href="https://autumnet-neuro.github.io/funklab/1.3.2-culture-media-recipes.html" class="internal-link" target="_self" rel="noopener nofollow">BHK media</a>
 <br>5mL 5% trypsin
 <br>10mL PBS
 <br>10µL trypan blue
@@ -553,20 +486,24 @@ D5: &gt;60m for fixing + &lt;5m for staining
 <br>0.5mL centrifuge tube
 <br>hemacytometer
 <br>counting slides
-<br>6- or 12-well plates (# determined by cell count-based calc.)
+<br>6- or 12-well plates
+
+<br># based on cell count calc.
+
+
 <br><br>
-<br>BHK cell culture (in T75 flask*) ~90-100% confluency
+<br>BHK <a data-tooltip-position="top" aria-label="2.1.1 general cell culture" data-href="2.1.1 general cell culture" href="https://autumnet-neuro.github.io/funklab/2.1.1-general-cell-culture.html" class="internal-link" target="_self" rel="noopener nofollow">cell culture</a> (in T75 flask*) ~90-100% confluency
 <br><br><br>
 <br>Discard old media &amp; wash cells with 10mL PBS in culture vessel
-<br>Discard PBS &amp; typsinize cells with
+<br>Discard PBS &amp; trypsinize cells with
 
-<br>MIX WELL with 5 mL typsin
+<br>MIX WELL with 5 mL trypsin
 <br>(Optional) incubate for ~5m &amp; confirm cleavage under microscope
 
 
 <br>Count detached, freshly re-suspended cells in hemacytometer
 
-<br><a data-tooltip-position="top" aria-label="C1V1=C2V2 calculator block" data-href="#C1V1=C2V2 calculator block" href="about:blank#C1V1=C2V2_calculator_block" class="internal-link" target="_self" rel="noopener nofollow">**Inserted code template - Enter values below and get V2 instantly:**</a>
+<br><a data-tooltip-position="top" aria-label="C1V1=C2V2 calculator block" data-href="#C1V1=C2V2 calculator block" href="https://autumnet-neuro.github.io/funklab/about:blank#C1V1=C2V2_calculator_block" class="internal-link" target="_self" rel="noopener nofollow">**Inserted code template - Enter values below and get V2 instantly:**</a>
 
 
 <br>Prepare adequate solution for n plates adjusted to target concentration
@@ -592,9 +529,9 @@ D5: &gt;60m for fixing + &lt;5m for staining
     V2 (mL of total possible target diltion): --
      n (max # of plates): --
 <br><br><br><br>
-<br><a data-tooltip-position="top" aria-label="1.3.2 culture media recipes" data-href="1.3.2 culture media recipes" href="1.3.2-culture-media-recipes.html" class="internal-link" target="_self" rel="noopener nofollow">BHK media</a>
-<br>2% LMP agarose
-<br>2X MEM
+<br><a data-tooltip-position="top" aria-label="1.3.2 culture media recipes" data-href="1.3.2 culture media recipes" href="https://autumnet-neuro.github.io/funklab/1.3.2-culture-media-recipes.html" class="internal-link" target="_self" rel="noopener nofollow">BHK media</a>
+<br><a data-tooltip-position="top" aria-label="1.3.2 culture media recipes > 2% LMP" data-href="1.3.2 culture media recipes#2% LMP" href="https://autumnet-neuro.github.io/funklab/1.3.2-culture-media-recipes.html#2_LMP" class="internal-link" target="_self" rel="noopener nofollow">2% LMP agarose</a>
+<br><a data-tooltip-position="top" aria-label="1.3.2 culture media recipes > 2x MEM" data-href="1.3.2 culture media recipes#2x MEM" href="https://autumnet-neuro.github.io/funklab/1.3.2-culture-media-recipes.html#2x_MEM" class="internal-link" target="_self" rel="noopener nofollow">2X MEM</a>
 <br><br>
 <br>water bath (56°C)
 <br>96-well plate
@@ -651,8 +588,8 @@ Keep agarose in 56ºC water bath or hot plate to keep thawed
 <br>
 Prepare 6 serial dilutions, starting with 20 µL
 
-]]></description><link>2.2.0-bhk-plaque-assay-protocol-v1.html</link><guid isPermaLink="false">2.2.0 BHK plaque assay protocol v1.md</guid><pubDate>Thu, 30 Jan 2025 16:53:39 GMT</pubDate></item><item><title><![CDATA[2.3.1 RT-PCR protocol v1]]></title><description><![CDATA[ 
- <br><a data-href="2.0.0 lab techniques moc" href="2.0.0-lab-techniques-moc.html" class="internal-link" target="_self" rel="noopener nofollow">2.0.0 lab techniques moc</a> // <a data-href="1.1.0 Funk Lab index" href="1.1.0-funk-lab-index.html" class="internal-link" target="_self" rel="noopener nofollow">1.1.0 Funk Lab index</a>]]></description><link>2.3.1-rt-pcr-protocol-v1.html</link><guid isPermaLink="false">2.3.1 RT-PCR protocol v1.md</guid><pubDate>Thu, 30 Jan 2025 02:43:10 GMT</pubDate></item><item><title><![CDATA[2.4.3 embedding & sectioning brains v1]]></title><description><![CDATA[ 
+]]></description><link>https://autumnet-neuro.github.io/funklab/2.2.0-bhk-plaque-assay-protocol-v1.html</link><guid isPermaLink="false">2.2.0 BHK plaque assay protocol v1.md</guid><dc:creator><![CDATA[AET]]></dc:creator><pubDate>Thu, 30 Jan 2025 17:36:41 GMT</pubDate></item><item><title><![CDATA[2.3.1 RT-PCR protocol v1]]></title><description><![CDATA[ 
+ <br><a data-href="2.0.0 lab techniques moc" href="https://autumnet-neuro.github.io/funklab/2.0.0-lab-techniques-moc.html" class="internal-link" target="_self" rel="noopener nofollow">2.0.0 lab techniques moc</a> // <a data-href="1.1.0 Funk Lab index" href="https://autumnet-neuro.github.io/funklab/1.1.0-funk-lab-index.html" class="internal-link" target="_self" rel="noopener nofollow">1.1.0 Funk Lab index</a>]]></description><link>https://autumnet-neuro.github.io/funklab/2.3.1-rt-pcr-protocol-v1.html</link><guid isPermaLink="false">2.3.1 RT-PCR protocol v1.md</guid><dc:creator><![CDATA[AET]]></dc:creator><pubDate>Thu, 30 Jan 2025 02:43:10 GMT</pubDate></item><item><title><![CDATA[2.4.3 embedding & sectioning brains v1]]></title><description><![CDATA[ 
  <br>AET 1.24.25 🔒<br>objective: cryopreserving mouse brains and sectioning to 10 microns* for staining
 *: adjust section thickness as needed/recommended
 <br>Timeline:&nbsp;~30m<br><br><br>
@@ -705,7 +642,7 @@ Prepare 6 serial dilutions, starting with 20 µL
 
 
 <br>Store wrapped tissue in -80°C until time for further dissection 4/5
-]]></description><link>2.4.3-embedding-&amp;-sectioning-brains-v1.html</link><guid isPermaLink="false">2.4.3 embedding &amp; sectioning brains v1.md</guid><pubDate>Thu, 30 Jan 2025 14:41:57 GMT</pubDate></item><item><title><![CDATA[3.1.1 to-dos 25Jan29]]></title><description><![CDATA[ 
+]]></description><link>https://autumnet-neuro.github.io/funklab/2.4.3-embedding-&amp;-sectioning-brains-v1.html</link><guid isPermaLink="false">2.4.3 embedding &amp; sectioning brains v1.md</guid><dc:creator><![CDATA[AET]]></dc:creator><pubDate>Thu, 30 Jan 2025 14:41:57 GMT</pubDate></item><item><title><![CDATA[3.1.1 to-dos 25Jan29]]></title><description><![CDATA[ 
  <br>
 <br>check cells
 
@@ -720,11 +657,14 @@ Prepare 6 serial dilutions, starting with 20 µL
 <br>copy from onenote to obsidian
 <br>log today's 'dones'...together or separate?
 
-<br><a data-href="3.2.0" href="3.2.0" class="internal-link" target="_self" rel="noopener nofollow">3.2.0</a>
+<br><a data-href="3.2.0" href="https://autumnet-neuro.github.io/funklab/3.2.0" class="internal-link" target="_self" rel="noopener nofollow">3.2.0</a>
 
 
-]]></description><link>3.1.1-to-dos-25jan29.html</link><guid isPermaLink="false">3.1.1 to-dos 25Jan29.md</guid><pubDate>Thu, 30 Jan 2025 01:27:34 GMT</pubDate></item><item><title><![CDATA[3.AT0.01 cell culture master log]]></title><description><![CDATA[ 
- <br>AET -- starting 12.10.24<br><br>📍 or is this .02? check desktop download date<br><br>observations:<br>
+]]></description><link>https://autumnet-neuro.github.io/funklab/3.1.1-to-dos-25jan29.html</link><guid isPermaLink="false">3.1.1 to-dos 25Jan29.md</guid><dc:creator><![CDATA[AET]]></dc:creator><pubDate>Thu, 30 Jan 2025 01:27:34 GMT</pubDate></item><item><title><![CDATA[3.AT0.01 cell culture master log]]></title><description><![CDATA[ 
+ <br>AET -- starting 12.10.24<br><br>📍 or is this .02? check desktop download date<br><br>
+<br>split bhk.2 (t25 to t75)
+<br>trypsinized &amp; transferred bhk.1 to fresh media/vessel
+<br><br>observations:<br>
 <br>media color lightened
 
 <br>red → orange-y pink
@@ -739,10 +679,10 @@ Prepare 6 serial dilutions, starting with 20 µL
 <br>re-suspended cells with pipette
 <br>discarded ~34.5mL of media (drops of suspended cells remaining)
 <br>added 35mL of fresh media
-]]></description><link>3.at0.01-cell-culture-master-log.html</link><guid isPermaLink="false">3.AT0.01 cell culture master log.md</guid><pubDate>Thu, 30 Jan 2025 03:05:55 GMT</pubDate></item><item><title><![CDATA[5.0.0 lit review moc]]></title><description><![CDATA[ 
- <br><a data-href="1.1.0 Funk Lab index" href="1.1.0-funk-lab-index.html" class="internal-link" target="_self" rel="noopener nofollow">1.1.0 Funk Lab index</a>]]></description><link>5.0.0-lit-review-moc.html</link><guid isPermaLink="false">5.0.0 lit review moc.md</guid><pubDate>Thu, 30 Jan 2025 00:26:39 GMT</pubDate></item><item><title><![CDATA[8.1.1 misc note dump]]></title><description><![CDATA[ 
+]]></description><link>https://autumnet-neuro.github.io/funklab/3.at0.01-cell-culture-master-log.html</link><guid isPermaLink="false">3.AT0.01 cell culture master log.md</guid><dc:creator><![CDATA[AET]]></dc:creator><pubDate>Thu, 30 Jan 2025 19:43:16 GMT</pubDate></item><item><title><![CDATA[5.0.0 lit review moc]]></title><description><![CDATA[ 
+ <br><a data-href="1.1.0 Funk Lab index" href="https://autumnet-neuro.github.io/funklab/1.1.0-funk-lab-index.html" class="internal-link" target="_self" rel="noopener nofollow">1.1.0 Funk Lab index</a>]]></description><link>https://autumnet-neuro.github.io/funklab/5.0.0-lit-review-moc.html</link><guid isPermaLink="false">5.0.0 lit review moc.md</guid><dc:creator><![CDATA[AET]]></dc:creator><pubDate>Thu, 30 Jan 2025 00:26:39 GMT</pubDate></item><item><title><![CDATA[8.1.1 misc note dump]]></title><description><![CDATA[ 
  <br>staging area for organization<br>
-<a data-href="#general exp. note outline" href="about:blank#general_exp._note_outline" class="internal-link" target="_self" rel="noopener nofollow">general exp. note outline</a> (below)<br>
+<a data-href="#general exp. note outline" href="https://autumnet-neuro.github.io/funklab/about:blank#general_exp._note_outline" class="internal-link" target="_self" rel="noopener nofollow">general exp. note outline</a> (below)<br>
 <br>Project-Based Labeling: Assign a unique project identifier for each experiment series. Example: Proj-Aβ-TgMouse-01 (Abeta study in transgenic mice).  
 <br>Experiment Type Prefixes: Use standard prefixes to differentiate logs quickly:  
 
@@ -842,7 +782,7 @@ Signatures/Verification
 <br>Have your PI or supervisor verify and sign if required.  
 
 
-]]></description><link>8.1.1-misc-note-dump.html</link><guid isPermaLink="false">8.1.1 misc note dump.md</guid><pubDate>Thu, 30 Jan 2025 03:25:43 GMT</pubDate></item><item><title><![CDATA[8.2.0 UNCC-linked accounts]]></title><description><![CDATA[ 
+]]></description><link>https://autumnet-neuro.github.io/funklab/8.1.1-misc-note-dump.html</link><guid isPermaLink="false">8.1.1 misc note dump.md</guid><dc:creator><![CDATA[AET]]></dc:creator><pubDate>Thu, 30 Jan 2025 03:25:43 GMT</pubDate></item><item><title><![CDATA[8.2.0 UNCC-linked accounts]]></title><description><![CDATA[ 
  <br>📍 transfer notes from TwosApp<br><br>Zotero<br><br><br>📍 copy from Twos<br>
 i.e. Dropbox<br>
 Office<br>
@@ -851,12 +791,12 @@ Avenir font family<br>
 <br>backed up to sandisk flashdrive<br>
 printing...
 <br>current solution: connect printer to UNCC-guest + phone or iPad → iprint &amp; scan app to print from drive or icloud
-]]></description><link>8.2.0-uncc-linked-accounts.html</link><guid isPermaLink="false">8.2.0 UNCC-linked accounts.md</guid><pubDate>Wed, 29 Jan 2025 22:29:01 GMT</pubDate></item><item><title><![CDATA[8.2.1 misc lab glossary]]></title><description><![CDATA[ 
+]]></description><link>https://autumnet-neuro.github.io/funklab/8.2.0-uncc-linked-accounts.html</link><guid isPermaLink="false">8.2.0 UNCC-linked accounts.md</guid><dc:creator><![CDATA[AET]]></dc:creator><pubDate>Wed, 29 Jan 2025 22:29:01 GMT</pubDate></item><item><title><![CDATA[8.2.1 misc lab glossary]]></title><description><![CDATA[ 
  <br>
 <br>cell colony ≡ distinct cluster portion of cell culture 
 <br>in vitro ≡ 'in glass'
 <br>micron = µm = 10e-6
-]]></description><link>8.2.1-misc-lab-glossary.html</link><guid isPermaLink="false">8.2.1 misc lab glossary.md</guid><pubDate>Thu, 30 Jan 2025 02:41:18 GMT</pubDate></item><item><title><![CDATA[8.3.1 why Obsidian vs. OneNote for ELN]]></title><description><![CDATA[ 
+]]></description><link>https://autumnet-neuro.github.io/funklab/8.2.1-misc-lab-glossary.html</link><guid isPermaLink="false">8.2.1 misc lab glossary.md</guid><dc:creator><![CDATA[AET]]></dc:creator><pubDate>Thu, 30 Jan 2025 02:41:18 GMT</pubDate></item><item><title><![CDATA[8.3.1 why Obsidian vs. OneNote for ELN]]></title><description><![CDATA[ 
  <br>after tackling accessibility concerns with static backups &amp; straightforward sharing (via gitpages), Obsidian is a more flexible &amp; powerful aid for notes and documentation<br><br>
 <br>markdown file base → plain text storage for universal accessibility &amp; easy backups
 <br>flexible customization, including linking &amp; plug-ins
@@ -873,13 +813,13 @@ printing...
 <br>data security: sensitive data will be stored elsewhere on encrypted drives
 <br>long-term accessibility/clarity: maintain static backup of vault in universal format (PDF or HTML)
 <br>integration: unlikely to come up but selections from PDF/HTML backup should suffice
-<br><a data-href="1.1.0 Funk Lab index" href="1.1.0-funk-lab-index.html" class="internal-link" target="_self" rel="noopener nofollow">1.1.0 Funk Lab index</a>]]></description><link>8.3.1-why-obsidian-vs.-onenote-for-eln.html</link><guid isPermaLink="false">8.3.1 why Obsidian vs. OneNote for ELN.md</guid><pubDate>Thu, 30 Jan 2025 00:26:39 GMT</pubDate></item><item><title><![CDATA[content map]]></title><description><![CDATA[ 
- <br><br>
+<br><a data-href="1.1.0 Funk Lab index" href="https://autumnet-neuro.github.io/funklab/1.1.0-funk-lab-index.html" class="internal-link" target="_self" rel="noopener nofollow">1.1.0 Funk Lab index</a>]]></description><link>https://autumnet-neuro.github.io/funklab/8.3.1-why-obsidian-vs.-onenote-for-eln.html</link><guid isPermaLink="false">8.3.1 why Obsidian vs. OneNote for ELN.md</guid><dc:creator><![CDATA[AET]]></dc:creator><pubDate>Thu, 30 Jan 2025 00:26:39 GMT</pubDate></item><item><title><![CDATA[content map]]></title><description><![CDATA[ 
+ <br>📍 update/add full link map + quick access to recent notes (dataview block? via date metadata)<br><br>
 <br>General Lab &amp; Administrative Information
 
 <br>Lab Overview (focus, key projects, etc)
 
-<br><a data-href="1.1.1 lab overview" href="1.1.1-lab-overview.html" class="internal-link" target="_self" rel="noopener nofollow">1.1.1 lab overview</a>
+<br><a data-href="1.1.1 lab overview" href="https://autumnet-neuro.github.io/funklab/1.1.1-lab-overview.html" class="internal-link" target="_self" rel="noopener nofollow">1.1.1 lab overview</a>
 
 
 <br>Lab SOPs + Safety Protocols
@@ -889,39 +829,39 @@ printing...
 
 <br>Chemical Inventory
 
-<br><a data-href="1.3.0 chemical abbreviations" href="1.3.0-chemical-abbreviations.html" class="internal-link" target="_self" rel="noopener nofollow">1.3.0 chemical abbreviations</a>
-<br><a data-href="1.3.1 Q424 EHS inventory update" href="1.3.1-q424-ehs-inventory-update.html" class="internal-link" target="_self" rel="noopener nofollow">1.3.1 Q424 EHS inventory update</a>
-<br><a data-href="1.3.2" href="1.3.2" class="internal-link" target="_self" rel="noopener nofollow">1.3.2</a>
+<br><a data-href="1.3.0 chemical abbreviations" href="https://autumnet-neuro.github.io/funklab/1.3.0-chemical-abbreviations.html" class="internal-link" target="_self" rel="noopener nofollow">1.3.0 chemical abbreviations</a>
+<br><a data-href="1.3.1 Q424 EHS inventory update" href="https://autumnet-neuro.github.io/funklab/1.3.1-q424-ehs-inventory-update.html" class="internal-link" target="_self" rel="noopener nofollow">1.3.1 Q424 EHS inventory update</a>
+<br><a data-href="1.3.2" href="https://autumnet-neuro.github.io/funklab/1.3.2" class="internal-link" target="_self" rel="noopener nofollow">1.3.2</a>
 
 
 <br>Equipment + Maintenance Logs
 
-<br><a data-href="1.4.1 lab desktop" href="1.4.1-lab-desktop.html" class="internal-link" target="_self" rel="noopener nofollow">1.4.1 lab desktop</a>
-<br><a data-href="1.4.2 CO2 incubators" href="1.4.2-co2-incubators.html" class="internal-link" target="_self" rel="noopener nofollow">1.4.2 CO2 incubators</a>
+<br><a data-href="1.4.1 lab desktop" href="https://autumnet-neuro.github.io/funklab/1.4.1-lab-desktop.html" class="internal-link" target="_self" rel="noopener nofollow">1.4.1 lab desktop</a>
+<br><a data-href="1.4.2 CO2 incubators" href="https://autumnet-neuro.github.io/funklab/1.4.2-co2-incubators.html" class="internal-link" target="_self" rel="noopener nofollow">1.4.2 CO2 incubators</a>
 
 
 <br>Data Management + Backup Policies
 
-<br><a data-href="1.5.1 ELN set-up" href="1.5.1-eln-set-up.html" class="internal-link" target="_self" rel="noopener nofollow">1.5.1 ELN set-up</a>
-<br><a data-href="1.5.0 ELN organizational practices" href="1.5.0-eln-organizational-practices.html" class="internal-link" target="_self" rel="noopener nofollow">1.5.0 ELN organizational practices</a>
-<br><a data-href="1.5.3" href="1.5.3" class="internal-link" target="_self" rel="noopener nofollow">1.5.3</a>
+<br><a data-href="1.5.1 ELN set-up" href="https://autumnet-neuro.github.io/funklab/1.5.1-eln-set-up.html" class="internal-link" target="_self" rel="noopener nofollow">1.5.1 ELN set-up</a>
+<br><a data-href="1.5.0 ELN organizational practices" href="https://autumnet-neuro.github.io/funklab/1.5.0-eln-organizational-practices.html" class="internal-link" target="_self" rel="noopener nofollow">1.5.0 ELN organizational practices</a>
+<br><a data-href="1.5.3" href="https://autumnet-neuro.github.io/funklab/1.5.3" class="internal-link" target="_self" rel="noopener nofollow">1.5.3</a>
 
 
 
 
-<br><a data-tooltip-position="top" aria-label="2.0.0 lab techniques moc" data-href="2.0.0 lab techniques moc" href="2.0.0-lab-techniques-moc.html" class="internal-link" target="_self" rel="noopener nofollow">Experimental Techniques &amp; Protocols</a>
+<br><a data-tooltip-position="top" aria-label="2.0.0 lab techniques moc" data-href="2.0.0 lab techniques moc" href="https://autumnet-neuro.github.io/funklab/2.0.0-lab-techniques-moc.html" class="internal-link" target="_self" rel="noopener nofollow">Experimental Techniques &amp; Protocols</a>
 
 <br>Cell Culture + Plating
 
-<br><a data-tooltip-position="top" aria-label="2.1.1 general cell culture" data-href="2.1.1 general cell culture" href="2.1.1-general-cell-culture.html" class="internal-link" target="_self" rel="noopener nofollow">Passaging + maintenance</a>
-<br><a data-tooltip-position="top" aria-label="2.1.2 primary neuron culture" data-href="2.1.2 primary neuron culture" href="2.1.2-primary-neuron-culture.html" class="internal-link" target="_self" rel="noopener nofollow">Neuron plating</a>
-<br>Glial cultures 
+<br><a data-tooltip-position="top" aria-label="2.1.1 general cell culture" data-href="2.1.1 general cell culture" href="https://autumnet-neuro.github.io/funklab/2.1.1-general-cell-culture.html" class="internal-link" target="_self" rel="noopener nofollow">Passaging + maintenance</a>
+<br><a data-tooltip-position="top" aria-label="2.1.2 primary neuron culture v1" data-href="2.1.2 primary neuron culture v1" href="https://autumnet-neuro.github.io/funklab/2.1.2-primary-neuron-culture-v1.html" class="internal-link" target="_self" rel="noopener nofollow">Neuron plating</a>
+<br>Glial cultures
 
 
 <br>Virus Work
 
-<br><a data-href="2.2.0 BHK plaque assay protocol v1" href="2.2.0-bhk-plaque-assay-protocol-v1.html" class="internal-link" target="_self" rel="noopener nofollow">2.2.0 BHK plaque assay protocol v1</a>
-<br><a data-href="2.9.2 BHK plaque assay - protocol template" href="meta\templates\2.9.2-bhk-plaque-assay-protocol-template.html" class="internal-link" target="_self" rel="noopener nofollow">2.9.2 BHK plaque assay - protocol template</a>
+<br><a data-href="2.2.0 BHK plaque assay protocol v1" href="https://autumnet-neuro.github.io/funklab/2.2.0-bhk-plaque-assay-protocol-v1.html" class="internal-link" target="_self" rel="noopener nofollow">2.2.0 BHK plaque assay protocol v1</a>
+<br><a data-href="2.9.2 BHK plaque assay - protocol template" href="https://autumnet-neuro.github.io/funklab/meta/templates/2.9.2-bhk-plaque-assay-protocol-template.html" class="internal-link" target="_self" rel="noopener nofollow">2.9.2 BHK plaque assay - protocol template</a>
 <br>Plaque counting...
 
 
@@ -934,11 +874,11 @@ printing...
 
 <br>Murine Procedures + Tissue Processing
 
-<br><a data-href="2.4.1 weaning pups v1" href="2.4.1 weaning pups v1" class="internal-link" target="_self" rel="noopener nofollow">2.4.1 weaning pups v1</a>
-<br><a data-href="2.4.2 dam dissection" href="2.4.2 dam dissection" class="internal-link" target="_self" rel="noopener nofollow">2.4.2 dam dissection</a>
+<br><a data-href="2.4.1 weaning pups v1" href="https://autumnet-neuro.github.io/funklab/2.4.1 weaning pups v1" class="internal-link" target="_self" rel="noopener nofollow">2.4.1 weaning pups v1</a>
+<br><a data-href="2.4.2 dam dissection" href="https://autumnet-neuro.github.io/funklab/2.4.2 dam dissection" class="internal-link" target="_self" rel="noopener nofollow">2.4.2 dam dissection</a>
 
 
-<br><a data-href="2.4.3 embedding &amp; sectioning brains v1" href="2.4.3-embedding-&amp;-sectioning-brains-v1.html" class="internal-link" target="_self" rel="noopener nofollow">2.4.3 embedding &amp; sectioning brains v1</a>
+<br><a data-href="2.4.3 embedding &amp; sectioning brains v1" href="https://autumnet-neuro.github.io/funklab/2.4.3-embedding-&amp;-sectioning-brains-v1.html" class="internal-link" target="_self" rel="noopener nofollow">2.4.3 embedding &amp; sectioning brains v1</a>
 
 
 <br>Neuroimmune-Specific
@@ -948,6 +888,13 @@ printing...
 
 
 <br>*Troubleshooting &amp; Optimizations ****
+<br>Templates
+
+<br><a data-href="2.9.0 hemacytometer count calculations" href="https://autumnet-neuro.github.io/funklab/meta/templates/2.9.0-hemacytometer-count-calculations.html" class="internal-link" target="_self" rel="noopener nofollow">2.9.0 hemacytometer count calculations</a>
+<br><a data-href="2.9.1 cell culture master log" href="https://autumnet-neuro.github.io/funklab/meta/templates/2.9.1-cell-culture-master-log.html" class="internal-link" target="_self" rel="noopener nofollow">2.9.1 cell culture master log</a>
+<br><a data-href="2.9.2 BHK plaque assay - protocol template" href="https://autumnet-neuro.github.io/funklab/meta/templates/2.9.2-bhk-plaque-assay-protocol-template.html" class="internal-link" target="_self" rel="noopener nofollow">2.9.2 BHK plaque assay - protocol template</a>
+
+
 
 
 <br>Experiment Log &amp; Research Notes
@@ -955,7 +902,7 @@ printing...
 <br>Task Logs
 <br>Project-Specific Experiment Notes
 
-<br>2.0 : Technical Practice 
+<br>2.0 : Technical Practice
 <br>2.BDD : DNA Damage - Britanie
 <br>2.TTP : Tau Phosphorylation - Trevor
 
@@ -1004,10 +951,10 @@ printing...
 <br>Reference Links &amp; Resources
 <br>FAQs &amp; Notes for Viewers
 
-<br><a data-href="8.3.1 why Obsidian vs. OneNote for ELN" href="8.3.1-why-obsidian-vs.-onenote-for-eln.html" class="internal-link" target="_self" rel="noopener nofollow">8.3.1 why Obsidian vs. OneNote for ELN</a> 
+<br><a data-href="8.3.1 why Obsidian vs. OneNote for ELN" href="https://autumnet-neuro.github.io/funklab/8.3.1-why-obsidian-vs.-onenote-for-eln.html" class="internal-link" target="_self" rel="noopener nofollow">8.3.1 why Obsidian vs. OneNote for ELN</a>
 
 
 
 
 <br>electronic lab notebook - Autumn Tucker<br>
-Funk Lab - UNCC - Q424 -- Q22X]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Thu, 30 Jan 2025 03:55:55 GMT</pubDate></item></channel></rss>
+Funk Lab - UNCC - Q424 -- Q22X]]></description><link>https://autumnet-neuro.github.io/funklab/index.html</link><guid isPermaLink="false">index.md</guid><dc:creator><![CDATA[AET]]></dc:creator><pubDate>Thu, 30 Jan 2025 17:38:06 GMT</pubDate></item></channel></rss>
